@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frontend-Mentor/static/css/main.449166c9.css",
+    "main.js": "/Frontend-Mentor/static/js/main.422da99a.js",
+    "index.html": "/Frontend-Mentor/index.html",
+    "main.449166c9.css.map": "/Frontend-Mentor/static/css/main.449166c9.css.map",
+    "main.422da99a.js.map": "/Frontend-Mentor/static/js/main.422da99a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449166c9.css",
+    "static/js/main.422da99a.js"
+  ]
+}
