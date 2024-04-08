@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Frontend-Mentor/static/css/main.449166c9.css",
-    "main.js": "/Frontend-Mentor/static/js/main.422da99a.js",
-    "index.html": "/Frontend-Mentor/index.html",
-    "main.449166c9.css.map": "/Frontend-Mentor/static/css/main.449166c9.css.map",
-    "main.422da99a.js.map": "/Frontend-Mentor/static/js/main.422da99a.js.map"
+    "main.css": "/social-profile/static/css/main.449166c9.css",
+    "main.js": "/social-profile/static/js/main.422da99a.js",
+    "index.html": "/social-profile/index.html",
+    "main.449166c9.css.map": "/social-profile/static/css/main.449166c9.css.map",
+    "main.422da99a.js.map": "/social-profile/static/js/main.422da99a.js.map"
   },
   "entrypoints": [
     "static/css/main.449166c9.css",
